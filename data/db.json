@@ -1,0 +1,46 @@
+{
+    "masterGuns": [
+        {
+            "name": "VMP",
+            "class": "SMG",
+            "id": 1,
+            "gunName": "Yet to decide" 
+        },
+        {
+            "name": "Switchblade X9",
+            "class": "SMG",
+            "id": 2,
+            "gunName": "Yet to decide" 
+        },
+        {
+            "name": "USS 9",
+            "class": "SMG",
+            "id": 3,
+            "gunName": "KamanatiSlayer" 
+        },
+        {
+            "name": "LW3-Tundra",
+            "class": "Sniper",
+            "id": 4,
+            "gunName": "TharKuri" 
+        },
+        {
+            "name": "Koshka",
+            "class": "Sniper",
+            "id": 5,
+            "gunName": "VindhuBlaster" 
+        },
+        {
+            "name": "HS0405",
+            "class": "Shotgun",
+            "id": 6,
+            "gunName": "Jalsa" 
+        },
+        {
+            "name": "Type 63",
+            "class": "Marksman",
+            "id": 7,
+            "gunName": "Yet to decide" 
+        }
+    ]
+}
